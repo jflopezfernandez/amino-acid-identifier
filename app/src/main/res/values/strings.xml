@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Amino Acid Identifier</string>
+    <string name="adenine">Adenine</string>
+    <string name="cytosine">Cytosine</string>
+    <string name="guanine">Guanine</string>
+    <string name="thymine">Thymine</string>
+    <string name="uracil">Uracil</string>
+    <string name="reset">Reset</string>
+</resources>
